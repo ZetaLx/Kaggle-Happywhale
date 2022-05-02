@@ -9,7 +9,7 @@ The data includes more than 15,000 unique individual images of marine mammals fr
 ## Pipeline:
 
 ![Image Error](https://github.com/ZetaLx/Kaggle-Happywhale/blob/main/Figure/model.png)
-<div align=center><img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" /></div>
+<div align=center><img src="https://github.com/ZetaLx/Kaggle-Happywhale/blob/main/Figure/model.png" /></div>
 
 1. Image data preprocessing - iconic feature image cropping: First, train the YOLOv5 target detection model based on the labeled data, and cut out the dorsal fin or body part from the training set and test set data.
 
