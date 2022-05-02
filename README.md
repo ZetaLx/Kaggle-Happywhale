@@ -9,7 +9,7 @@ The evaluation index is MAP@5:
 
 
 
-Pipeline:
+## Pipeline:
 
 
 
@@ -22,7 +22,7 @@ Pipeline:
 4. Clustering and sorting: Use the backone model completed by the final training to extract the embedded features of the training set and the test set respectively, train the KNN model with the embedded features of the training set, and then infer the distance of the embedded features of the test set, and sort to obtain the top5 category as the final result.
 
 
-Reference:
+## Reference:
 
 DOLG paper: https://arxiv.org/pdf/2108.02927.pdf
 
